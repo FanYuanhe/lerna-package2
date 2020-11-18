@@ -1,5 +1,5 @@
 {
-  "name": "lerna-package-2",
+  "name": "fyh-lerna-package-2",
   "version": "0.0.1",
   "description": "",
   "main": "index.js",
@@ -7,5 +7,6 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "fanyuanhe",
-  "license": "ISC"
+  "license": "ISC",
+  "gitHead": "92410e33bd53e9e2ec93481f316ae123c8249849"
 }
