@@ -1,5 +1,5 @@
 {
-  "name": "fyh-lerna-package-3",
+  "name": "current-pachage",
   "version": "0.0.4",
   "description": "",
   "main": "index.js",
@@ -8,5 +8,5 @@
   },
   "author": "",
   "license": "ISC",
-  "gitHead": "c048f9bf03a3b29841e56305fad8e17992a35dcb"
+  "gitHead": "f6700c636ab5d4bca6fae47dd370af52642190a6"
 }
